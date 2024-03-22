@@ -8,6 +8,7 @@ public class test {
 		System.out.println("New add!");
 		System.out.println("20240037 Branch work");
 		System.out.println("사번 브런치 커밋");
+		System.out.println("20240037 작업");
 
 	}
 
