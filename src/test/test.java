@@ -10,6 +10,7 @@ public class test {
 		System.out.println("사번 브런치 커밋");
 		System.out.println("20240037 재작업 완료");
 		System.out.println("사번 브랜치 히스토리 확인용 작업");
+		System.out.println("메인 작업물");
 
 	}
 
