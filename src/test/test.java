@@ -11,7 +11,7 @@ public class test {
 		System.out.println("20240037 재작업 완료");
 		System.out.println("사번 브랜치 히스토리 확인용 작업");
 		System.out.println("메인 작업물 가져오기 성공!");
-		System.out.println("브런치 작업물");
+		System.out.println("브런치 작업물 메인에 밀어 넣기 성공!");
 
 	}
 
