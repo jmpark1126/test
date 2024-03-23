@@ -20,6 +20,7 @@ public class test {
 		
 		System.out.println("sourcetree를 이용한 브런치 커밋 재시도");
 		System.out.println("소스트리로 병합 시도");
+		System.out.println("소스트리 사용");
 	}
 
 }
