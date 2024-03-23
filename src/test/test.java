@@ -18,7 +18,7 @@ public class test {
 		
 		System.out.println("오늘 작업 할당량 완료!");
 		
-		System.out.println("sourcetree를 이용한 브런치 커밋 시도");
+		System.out.println("sourcetree를 이용한 브런치 커밋 재시도");
 	}
 
 }
