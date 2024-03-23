@@ -14,6 +14,7 @@ public class test {
 		System.out.println("브런치 작업물 메인에 밀어 넣기 성공!");
 
 		System.out.println("브런치 작업 완료!");
+		System.out.println("메인 추가");
 	}
 
 }
