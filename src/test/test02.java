@@ -9,6 +9,7 @@ public class test02 {
 		
 		System.out.println("사번 브런치 작업물");
 
+		System.out.println("202407409 feature/20240037 브런치 생성 후 첫 작업");
 	}
 
 }
