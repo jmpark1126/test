@@ -28,13 +28,13 @@ public class study_0420 {
 //			System.out.println(a);
 //		}
 //		
-//		//HashMap
-//		HashMap<String, String> h = new HashMap<String, String>();
-//		h.put("1", "일등");
-//		h.put("2", "이등");
-//		h.put("3", "삼등");
-//		
-//		System.out.println(h);
+		//HashMap
+		HashMap<String, String> h = new HashMap<String, String>();
+		h.put("1", "일등");
+		h.put("2", "이등");
+		h.put("3", "삼등");
+		
+		System.out.println(h);
 		
 		//List<Map<String, Object>>
 		/**
