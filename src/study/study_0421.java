@@ -21,6 +21,7 @@ public class study_0421 {
 		for(Map<String, String> item : arr) {
 			System.out.println("!");
 			aptList.add(new ApartmentInfo(res));
+			System.out.println(item);
 			System.out.println(aptList);
 		}
 		
