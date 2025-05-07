@@ -5,6 +5,6 @@ public class main {
         System.out.println("초기 세팅 완료");
         System.out.println("20250507 브런치 수정");
 
-        System.out.println("20250507 브런치 수정");
+        System.out.println("main 브런치 수정");
     }
 }
